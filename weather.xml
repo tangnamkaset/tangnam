@@ -1,0 +1,2703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WeatherToday Version="2.0">
+<Header>
+<Title>WeatherToday</Title>
+<Description>Today's Weather Observation</Description>
+<Uri>http://data.tmd.go.th/api/WeatherToday/V2/index.php</Uri>
+<LastBuildDate>2020-10-01 17:05:44</LastBuildDate>
+<CopyRight>Thai Meteorological Department:2017</CopyRight>
+<Generator>TMDData_API Services</Generator>
+<status>200 OK</status>
+</Header>
+<Stations>
+<Station>
+<WmoStationNumber>48300</WmoStationNumber>
+<StationNameThai>แม่ฮ่องสอน</StationNameThai>
+<StationNameEnglish>MAE HONG SON</StationNameEnglish>
+<Province>แม่ฮ่องสอน</Province>
+<Latitude Unit="decimal degree">19.29897</Latitude>
+<Longitude Unit="decimal degree">97.97578</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.01</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.2</Temperature>
+<MaxTemperature Unit="celcius">32.7</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.3</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.3</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.9</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">95</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">6.10</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48325</WmoStationNumber>
+<StationNameThai>แม่สะเรียง</StationNameThai>
+<StationNameEnglish>MAE SARIANG</StationNameEnglish>
+<Province>แม่ฮ่องสอน</Province>
+<Latitude Unit="decimal degree">18.16667</Latitude>
+<Longitude Unit="decimal degree">97.93333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.03</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.0</Temperature>
+<MaxTemperature Unit="celcius">34.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">2.5</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.5</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">94</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48303</WmoStationNumber>
+<StationNameThai>เชียงราย</StationNameThai>
+<StationNameEnglish>CHIANG RAI</StationNameEnglish>
+<Province>เชียงราย</Province>
+<Latitude Unit="decimal degree">19.96139</Latitude>
+<Longitude Unit="decimal degree">99.88139</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.02</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.8</Temperature>
+<MaxTemperature Unit="celcius">30.6</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-2.9</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.3</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">1.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">93</RelativeHumidity>
+<WindDirection Unit="degree">030</WindDirection>
+<WindSpeed Unit="km/h">2</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48304</WmoStationNumber>
+<StationNameThai>เชียงราย สกษ.</StationNameThai>
+<StationNameEnglish>CHAING RAI AGROMET.</StationNameEnglish>
+<Province>เชียงราย</Province>
+<Latitude Unit="decimal degree">19.87083</Latitude>
+<Longitude Unit="decimal degree">99.78278</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1008.30</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.0</Temperature>
+<MaxTemperature Unit="celcius">30.4</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-2.3</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">96</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48310</WmoStationNumber>
+<StationNameThai>พะเยา</StationNameThai>
+<StationNameEnglish>PHAYAO</StationNameEnglish>
+<Province>พะเยา</Province>
+<Latitude Unit="decimal degree">19.13333</Latitude>
+<Longitude Unit="decimal degree">99.90000</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.78</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.8</Temperature>
+<MaxTemperature Unit="celcius">32.3</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.2</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.8</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">040</WindDirection>
+<WindSpeed Unit="km/h">3</WindSpeed>
+<Rainfall Unit="mm">5.50</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48302</WmoStationNumber>
+<StationNameThai>ดอยอ่างขาง</StationNameThai>
+<StationNameEnglish>DOI ANG KANG</StationNameEnglish>
+<Province>เชียงใหม่</Province>
+<Latitude Unit="decimal degree">19.93139</Latitude>
+<Longitude Unit="decimal degree">99.04833</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1004.03</MeanSeaLevelPressure>
+<Temperature Unit="celcius">18.2</Temperature>
+<MaxTemperature Unit="celcius">22.3</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.3</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">18.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.3</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">99</RelativeHumidity>
+<WindDirection Unit="degree">130</WindDirection>
+<WindSpeed Unit="km/h">5</WindSpeed>
+<Rainfall Unit="mm">2.40</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48327</WmoStationNumber>
+<StationNameThai>เชียงใหม่</StationNameThai>
+<StationNameEnglish>CHIANG MAI</StationNameEnglish>
+<Province>เชียงใหม่</Province>
+<Latitude Unit="decimal degree">18.79000</Latitude>
+<Longitude Unit="decimal degree">98.97694</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.53</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.1</Temperature>
+<MaxTemperature Unit="celcius">33.0</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.2</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.9</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.0</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">92</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">2.10</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48328</WmoStationNumber>
+<StationNameThai>ลำปาง</StationNameThai>
+<StationNameEnglish>LAMPANG</StationNameEnglish>
+<Province>ลำปาง</Province>
+<Latitude Unit="decimal degree">18.28333</Latitude>
+<Longitude Unit="decimal degree">99.51667</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.84</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.2</Temperature>
+<MaxTemperature Unit="celcius">33.1</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.6</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.7</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.3</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">3.60</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48324</WmoStationNumber>
+<StationNameThai>เถิน</StationNameThai>
+<StationNameEnglish>THOEN</StationNameEnglish>
+<Province>ลำปาง</Province>
+<Latitude Unit="decimal degree">17.63661</Latitude>
+<Longitude Unit="decimal degree">99.24475</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.54</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.0</Temperature>
+<MaxTemperature Unit="celcius">33.7</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.9</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-1.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">090</WindDirection>
+<WindSpeed Unit="km/h">3</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48334</WmoStationNumber>
+<StationNameThai>ลำปาง สกษ.</StationNameThai>
+<StationNameEnglish>LAMPANG AGROMET.</StationNameEnglish>
+<Province>ลำปาง</Province>
+<Latitude Unit="decimal degree">18.31667</Latitude>
+<Longitude Unit="decimal degree">99.28333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.64</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.5</Temperature>
+<MaxTemperature Unit="celcius">31.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.5</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.5</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">96</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">9.80</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48329</WmoStationNumber>
+<StationNameThai>ลำพูน</StationNameThai>
+<StationNameEnglish>LAMPHUN</StationNameEnglish>
+<Province>ลำพูน</Province>
+<Latitude Unit="decimal degree">18.56722</Latitude>
+<Longitude Unit="decimal degree">99.03389</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.54</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.5</Temperature>
+<MaxTemperature Unit="celcius">32.0</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.8</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.2</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.4</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">96</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">2.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48330</WmoStationNumber>
+<StationNameThai>แพร่</StationNameThai>
+<StationNameEnglish>PHRAE</StationNameEnglish>
+<Province>แพร่</Province>
+<Latitude Unit="decimal degree">18.16667</Latitude>
+<Longitude Unit="decimal degree">100.16667</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.51</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.6</Temperature>
+<MaxTemperature Unit="celcius">33.2</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">3.3</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.5</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">95</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.01</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48331</WmoStationNumber>
+<StationNameThai>น่าน</StationNameThai>
+<StationNameEnglish>NAN</StationNameEnglish>
+<Province>น่าน</Province>
+<Latitude Unit="decimal degree">18.77972</Latitude>
+<Longitude Unit="decimal degree">100.77778</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.87</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.4</Temperature>
+<MaxTemperature Unit="celcius">32.2</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.1</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.9</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.3</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48333</WmoStationNumber>
+<StationNameThai>น่าน สกษ.</StationNameThai>
+<StationNameEnglish>NAN AGROMET.</StationNameEnglish>
+<Province>น่าน</Province>
+<Latitude Unit="decimal degree">18.86667</Latitude>
+<Longitude Unit="decimal degree">100.75000</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.27</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.2</Temperature>
+<MaxTemperature Unit="celcius">30.6</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.6</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.2</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">95</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48315</WmoStationNumber>
+<StationNameThai>ท่าวังผา</StationNameThai>
+<StationNameEnglish>THA WANGPHA</StationNameEnglish>
+<Province>น่าน</Province>
+<Latitude Unit="decimal degree">19.11056</Latitude>
+<Longitude Unit="decimal degree">100.80250</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.30</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.4</Temperature>
+<MaxTemperature Unit="celcius">32.0</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.5</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">92</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48307</WmoStationNumber>
+<StationNameThai>ทุ่งช้าง</StationNameThai>
+<StationNameEnglish>THUNG CHANG</StationNameEnglish>
+<Province>น่าน</Province>
+<Latitude Unit="decimal degree">19.41194</Latitude>
+<Longitude Unit="decimal degree">100.88353</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.30</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.0</Temperature>
+<MaxTemperature Unit="celcius">31.2</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.5</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">99</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48351</WmoStationNumber>
+<StationNameThai>อุตรดิตถ์</StationNameThai>
+<StationNameEnglish>UTTARADIT</StationNameEnglish>
+<Province>อุตรดิตถ์</Province>
+<Latitude Unit="decimal degree">17.61667</Latitude>
+<Longitude Unit="decimal degree">100.10000</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.16</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.6</Temperature>
+<MaxTemperature Unit="celcius">33.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.9</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.6</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">95</RelativeHumidity>
+
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48352</WmoStationNumber>
+<StationNameThai>หนองคาย</StationNameThai>
+<StationNameEnglish>NONG KHAI</StationNameEnglish>
+<Province>หนองคาย</Province>
+<Latitude Unit="decimal degree">17.86717</Latitude>
+<Longitude Unit="decimal degree">102.73303</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.39</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.5</Temperature>
+<MaxTemperature Unit="celcius">32.0</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.4</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.8</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.7</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">94</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">2.40</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48353</WmoStationNumber>
+<StationNameThai>เลย</StationNameThai>
+<StationNameEnglish>LOEI</StationNameEnglish>
+<Province>เลย</Province>
+<Latitude Unit="decimal degree">17.45000</Latitude>
+<Longitude Unit="decimal degree">101.73333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.61</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.3</Temperature>
+<MaxTemperature Unit="celcius">32.0</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">2.5</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">1.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">93</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48350</WmoStationNumber>
+<StationNameThai>เลย สกษ.</StationNameThai>
+<StationNameEnglish>LOEI AGROMET.</StationNameEnglish>
+<Province>เลย</Province>
+<Latitude Unit="decimal degree">17.40000</Latitude>
+<Longitude Unit="decimal degree">101.73333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.22</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.8</Temperature>
+<MaxTemperature Unit="celcius">32.9</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">2.9</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.2</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.6</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48354</WmoStationNumber>
+<StationNameThai>อุดรธานี</StationNameThai>
+<StationNameEnglish>UDON THANI</StationNameEnglish>
+<Province>อุดรธานี</Province>
+<Latitude Unit="decimal degree">17.38333</Latitude>
+<Longitude Unit="decimal degree">102.80000</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.66</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.8</Temperature>
+<MaxTemperature Unit="celcius">32.8</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">2.2</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">26.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.5</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">94</RelativeHumidity>
+<WindDirection Unit="degree">290</WindDirection>
+<WindSpeed Unit="km/h">2</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48356</WmoStationNumber>
+<StationNameThai>สกลนคร</StationNameThai>
+<StationNameEnglish>SAKON NAKHON</StationNameEnglish>
+<Province>สกลนคร</Province>
+<Latitude Unit="decimal degree">17.15000</Latitude>
+<Longitude Unit="decimal degree">104.13333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.26</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.3</Temperature>
+<MaxTemperature Unit="celcius">32.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">2.3</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.1</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">93</RelativeHumidity>
+<WindDirection Unit="degree">030</WindDirection>
+<WindSpeed Unit="km/h">2</WindSpeed>
+<Rainfall Unit="mm">2.70</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48355</WmoStationNumber>
+<StationNameThai>สกลนคร สกษ.</StationNameThai>
+<StationNameEnglish>SAKON NAKHON AGROMET.</StationNameEnglish>
+<Province>สกลนคร</Province>
+<Latitude Unit="decimal degree">17.12503</Latitude>
+<Longitude Unit="decimal degree">104.06100</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.76</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.2</Temperature>
+<MaxTemperature Unit="celcius">33.0</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">2.4</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.1</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.3</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">310</WindDirection>
+<WindSpeed Unit="km/h">3</WindSpeed>
+<Rainfall Unit="mm">2.20</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48357</WmoStationNumber>
+<StationNameThai>นครพนม</StationNameThai>
+<StationNameEnglish>NAKHON PHANOM</StationNameEnglish>
+<Province>นครพนม</Province>
+<Latitude Unit="decimal degree">17.41083</Latitude>
+<Longitude Unit="decimal degree">104.78250</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.75</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.1</Temperature>
+<MaxTemperature Unit="celcius">33.3</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">2.8</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.8</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.7</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">92</RelativeHumidity>
+<WindDirection Unit="degree">320</WindDirection>
+<WindSpeed Unit="km/h">1</WindSpeed>
+<Rainfall Unit="mm">3.50</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48358</WmoStationNumber>
+<StationNameThai>นครพนม สกษ.</StationNameThai>
+<StationNameEnglish>NAKHON PHANOM AGROMET.</StationNameEnglish>
+<Province>นครพนม</Province>
+<Latitude Unit="decimal degree">17.44306</Latitude>
+<Longitude Unit="decimal degree">104.77361</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.12</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.5</Temperature>
+<MaxTemperature Unit="celcius">32.4</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">2.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.5</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">96</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">22.10</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48360</WmoStationNumber>
+<StationNameThai>หนองบัวลำภู</StationNameThai>
+<StationNameEnglish>NONG BUA LAM PHU</StationNameEnglish>
+<Province>หนองบัวลำภู</Province>
+<Latitude Unit="decimal degree">17.23250</Latitude>
+<Longitude Unit="decimal degree">102.42944</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.22</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.5</Temperature>
+<MaxTemperature Unit="celcius">33.2</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">2.4</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">1.3</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">070</WindDirection>
+<WindSpeed Unit="km/h">3</WindSpeed>
+<Rainfall Unit="mm">0.70</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48363</WmoStationNumber>
+<StationNameThai>บึงกาฬ</StationNameThai>
+<StationNameEnglish>Bueng Kan</StationNameEnglish>
+<Province>บึงกาฬ</Province>
+<Latitude Unit="decimal degree">18.41361</Latitude>
+<Longitude Unit="decimal degree">103.51672</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.13</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.1</Temperature>
+<MaxTemperature Unit="celcius">32.9</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">2.4</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.3</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">030</WindDirection>
+<WindSpeed Unit="km/h">1</WindSpeed>
+<Rainfall Unit="mm">7.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48372</WmoStationNumber>
+<StationNameThai>สุโขทัย</StationNameThai>
+<StationNameEnglish>SUKHOTHAI*</StationNameEnglish>
+<Province>สุโขทัย</Province>
+<Latitude Unit="decimal degree">17.10611</Latitude>
+<Longitude Unit="decimal degree">99.80000</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1005.25</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.4</Temperature>
+<MaxTemperature Unit="celcius">33.1</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">3.1</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.7</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">92</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48373</WmoStationNumber>
+<StationNameThai>ศรีสำโรง สกษ.</StationNameThai>
+<StationNameEnglish>SI SAMRONG AGROMET.</StationNameEnglish>
+<Province>สุโขทัย</Province>
+<Latitude Unit="decimal degree">17.16136</Latitude>
+<Longitude Unit="decimal degree">99.86167</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.22</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.5</Temperature>
+<MaxTemperature Unit="celcius">33.2</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">2.9</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.4</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.7</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48376</WmoStationNumber>
+<StationNameThai>ตาก</StationNameThai>
+<StationNameEnglish>TAK</StationNameEnglish>
+<Province>ตาก</Province>
+<Latitude Unit="decimal degree">16.87833</Latitude>
+<Longitude Unit="decimal degree">99.14333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.60</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.0</Temperature>
+<MaxTemperature Unit="celcius">31.7</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.4</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.3</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">92</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.40</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48375</WmoStationNumber>
+<StationNameThai>แม่สอด</StationNameThai>
+<StationNameEnglish>MAE SOT</StationNameEnglish>
+<Province>ตาก</Province>
+<Latitude Unit="decimal degree">16.65917</Latitude>
+<Longitude Unit="decimal degree">98.55083</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1005.13</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.5</Temperature>
+<MaxTemperature Unit="celcius">32.2</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.3</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">96</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">1.50</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48377</WmoStationNumber>
+<StationNameThai>เขื่อนภูมิพล</StationNameThai>
+<StationNameEnglish>BHUMIBOL DAM</StationNameEnglish>
+<Province>ตาก</Province>
+<Latitude Unit="decimal degree">17.24389</Latitude>
+<Longitude Unit="decimal degree">99.00250</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.20</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.0</Temperature>
+<MaxTemperature Unit="celcius">32.2</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.2</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.7</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.3</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">96</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.20</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48387</WmoStationNumber>
+<StationNameThai>ดอยมูเซอร์ สกษ.</StationNameThai>
+<StationNameEnglish>DOI MU SOE AGROMET.</StationNameEnglish>
+<Province>ตาก</Province>
+<Latitude Unit="decimal degree">16.75000</Latitude>
+<Longitude Unit="decimal degree">98.93333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.26</MeanSeaLevelPressure>
+<Temperature Unit="celcius">20.4</Temperature>
+<MaxTemperature Unit="celcius">25.2</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.3</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">19.6</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.3</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">96</RelativeHumidity>
+<WindDirection Unit="degree">230</WindDirection>
+<WindSpeed Unit="km/h">3</WindSpeed>
+<Rainfall Unit="mm">9.10</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48385</WmoStationNumber>
+<StationNameThai>อุ้มผาง</StationNameThai>
+<StationNameEnglish>UMPHANG</StationNameEnglish>
+<Province>ตาก</Province>
+<Latitude Unit="decimal degree">16.02472</Latitude>
+<Longitude Unit="decimal degree">98.86444</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1008.58</MeanSeaLevelPressure>
+<Temperature Unit="celcius">23.0</Temperature>
+<MaxTemperature Unit="celcius">31.6</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.1</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">22.1</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">93</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.40</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48378</WmoStationNumber>
+<StationNameThai>พิษณุโลก</StationNameThai>
+<StationNameEnglish>PHITSANULOK</StationNameEnglish>
+<Province>พิษณุโลก</Province>
+<Latitude Unit="decimal degree">16.79481</Latitude>
+<Longitude Unit="decimal degree">100.27930</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.10</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.8</Temperature>
+<MaxTemperature Unit="celcius">33.2</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.5</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.3</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.4</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48379</WmoStationNumber>
+<StationNameThai>เพชรบูรณ์</StationNameThai>
+<StationNameEnglish>PHETCHABUN</StationNameEnglish>
+<Province>เพชรบูรณ์</Province>
+<Latitude Unit="decimal degree">16.43333</Latitude>
+<Longitude Unit="decimal degree">101.15000</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1005.24</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.4</Temperature>
+<MaxTemperature Unit="celcius">32.8</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.7</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">1.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48374</WmoStationNumber>
+<StationNameThai>หล่มสัก</StationNameThai>
+<StationNameEnglish>LOM SAK</StationNameEnglish>
+<Province>เพชรบูรณ์</Province>
+<Latitude Unit="decimal degree">16.77361</Latitude>
+<Longitude Unit="decimal degree">101.24944</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.00</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.2</Temperature>
+<MaxTemperature Unit="celcius">31.8</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.7</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">1.70</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48413</WmoStationNumber>
+<StationNameThai>วิเชียรบุรี</StationNameThai>
+<StationNameEnglish>WICHIAN BURI</StationNameEnglish>
+<Province>เพชรบูรณ์</Province>
+<Latitude Unit="decimal degree">15.65700</Latitude>
+<Longitude Unit="decimal degree">101.10800</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.15</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.2</Temperature>
+<MaxTemperature Unit="celcius">31.4</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.4</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.6</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.4</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">93</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">5.60</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48380</WmoStationNumber>
+<StationNameThai>กำแพงเพชร</StationNameThai>
+<StationNameEnglish>KAMPHAENG PHET</StationNameEnglish>
+<Province>กำแพงเพชร</Province>
+<Latitude Unit="decimal degree">16.48681</Latitude>
+<Longitude Unit="decimal degree">99.52697</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.28</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.8</Temperature>
+<MaxTemperature Unit="celcius">32.3</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.4</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48381</WmoStationNumber>
+<StationNameThai>ขอนแก่น</StationNameThai>
+<StationNameEnglish>KHON KAEN</StationNameEnglish>
+<Province>ขอนแก่น</Province>
+<Latitude Unit="decimal degree">16.46111</Latitude>
+<Longitude Unit="decimal degree">102.78972</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.06</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.0</Temperature>
+<MaxTemperature Unit="celcius">32.4</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.2</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.7</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">95</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.01</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48384</WmoStationNumber>
+<StationNameThai>ท่าพระ สกษ.</StationNameThai>
+<StationNameEnglish>THA PHRA AGROMET.</StationNameEnglish>
+<Province>ขอนแก่น</Province>
+<Latitude Unit="decimal degree">16.33333</Latitude>
+<Longitude Unit="decimal degree">102.81667</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.09</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.9</Temperature>
+<MaxTemperature Unit="celcius">32.8</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.4</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">26.1</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.9</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.10</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48383</WmoStationNumber>
+<StationNameThai>มุกดาหาร</StationNameThai>
+<StationNameEnglish>MUKDAHAN</StationNameEnglish>
+<Province>มุกดาหาร</Province>
+<Latitude Unit="decimal degree">16.54139</Latitude>
+<Longitude Unit="decimal degree">104.72889</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1005.96</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.0</Temperature>
+<MaxTemperature Unit="celcius">33.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.7</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">96</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">1.60</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48386</WmoStationNumber>
+<StationNameThai>พิจิตร สกษ.</StationNameThai>
+<StationNameEnglish>PICHIT AGROMET.</StationNameEnglish>
+<Province>พิจิตร</Province>
+<Latitude Unit="decimal degree">16.43806</Latitude>
+<Longitude Unit="decimal degree">100.29250</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1005.93</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.4</Temperature>
+<MaxTemperature Unit="celcius">31.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.2</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.2</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.3</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">95</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">6.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48382</WmoStationNumber>
+<StationNameThai>มหาสารคาม</StationNameThai>
+<StationNameEnglish>MAHASARAKHAM</StationNameEnglish>
+<Province>มหาสารคาม</Province>
+<Latitude Unit="decimal degree">16.24722</Latitude>
+<Longitude Unit="decimal degree">103.06805</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1005.95</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.5</Temperature>
+<MaxTemperature Unit="celcius">33.2</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-1.6</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">91</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48390</WmoStationNumber>
+<StationNameThai>กาฬสินธุ์</StationNameThai>
+<StationNameEnglish>KALASIN</StationNameEnglish>
+<Province>กาฬสินธุ์</Province>
+<Latitude Unit="decimal degree">16.33250</Latitude>
+<Longitude Unit="decimal degree">103.58833</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1005.78</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.6</Temperature>
+<MaxTemperature Unit="celcius">33.3</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.1</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">98</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.01</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48391</WmoStationNumber>
+<StationNameThai>อำนาจเจริญ</StationNameThai>
+<StationNameEnglish>Amnat Charoen</StationNameEnglish>
+<Province>อำนาจเจริญ</Province>
+<Latitude Unit="decimal degree">15.90375</Latitude>
+<Longitude Unit="decimal degree">104.61805</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.90</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.9</Temperature>
+<MaxTemperature Unit="celcius">31.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.9</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">19.60</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48400</WmoStationNumber>
+<StationNameThai>นครสวรรค์ </StationNameThai>
+<StationNameEnglish>NAKHON SAWAN</StationNameEnglish>
+<Province>นครสวรรค์</Province>
+<Latitude Unit="decimal degree">15.67183</Latitude>
+<Longitude Unit="decimal degree">100.13236</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.17</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.0</Temperature>
+<MaxTemperature Unit="celcius">34.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.9</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.4</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">96</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48401</WmoStationNumber>
+<StationNameThai>ตากฟ้า สกษ.</StationNameThai>
+<StationNameEnglish>TAKFA AGROMET.</StationNameEnglish>
+<Province>นครสวรรค์</Province>
+<Latitude Unit="decimal degree">15.34944</Latitude>
+<Longitude Unit="decimal degree">100.53028</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.55</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.0</Temperature>
+<MaxTemperature Unit="celcius">32.3</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.7</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.3</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">94</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48402</WmoStationNumber>
+<StationNameThai>ชัยนาท สกษ.</StationNameThai>
+<StationNameEnglish>CHAINAT AGROMET.</StationNameEnglish>
+<Province>ชัยนาท</Province>
+<Latitude Unit="decimal degree">15.15000</Latitude>
+<Longitude Unit="decimal degree">100.18333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.41</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.1</Temperature>
+<MaxTemperature Unit="celcius">33.7</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">2.6</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.2</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.4</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">87</RelativeHumidity>
+<WindDirection Unit="degree">090</WindDirection>
+<WindSpeed Unit="km/h">2</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48403</WmoStationNumber>
+<StationNameThai>ชัยภูมิ</StationNameThai>
+<StationNameEnglish>CHAIYAPHUM</StationNameEnglish>
+<Province>ชัยภูมิ</Province>
+<Latitude Unit="decimal degree">15.80000</Latitude>
+<Longitude Unit="decimal degree">102.03333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1005.75</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.0</Temperature>
+<MaxTemperature Unit="celcius">32.4</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.1</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.6</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.6</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">92</RelativeHumidity>
+<WindDirection Unit="degree">200</WindDirection>
+<WindSpeed Unit="km/h">2</WindSpeed>
+<Rainfall Unit="mm">0.01</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48405</WmoStationNumber>
+<StationNameThai>ร้อยเอ็ด</StationNameThai>
+<StationNameEnglish>ROI ET</StationNameEnglish>
+<Province>ร้อยเอ็ด</Province>
+<Latitude Unit="decimal degree">16.02000</Latitude>
+<Longitude Unit="decimal degree">103.74389</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1005.67</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.7</Temperature>
+<MaxTemperature Unit="celcius">32.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.5</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.7</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-1.3</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">98</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">40.80</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48404</WmoStationNumber>
+<StationNameThai>ร้อยเอ็ด สกษ.</StationNameThai>
+<StationNameEnglish>ROI ET AGROMET.</StationNameEnglish>
+<Province>ร้อยเอ็ด</Province>
+<Latitude Unit="decimal degree">16.07322</Latitude>
+<Longitude Unit="decimal degree">103.60844</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1005.67</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.5</Temperature>
+<MaxTemperature Unit="celcius">32.2</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.5</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-1.0</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">98</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">55.40</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48406</WmoStationNumber>
+<StationNameThai>ยโสธร</StationNameThai>
+<StationNameEnglish>Yasothon</StationNameEnglish>
+<Province>ยโสธร</Province>
+<Latitude Unit="decimal degree">15.79494</Latitude>
+<Longitude Unit="decimal degree">104.21436</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.79</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.2</Temperature>
+<MaxTemperature Unit="celcius">33.0</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.8</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.5</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">98</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">14.10</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48408</WmoStationNumber>
+<StationNameThai>อุบลราชธานี สกษ.</StationNameThai>
+<StationNameEnglish>UBON RATCHATHANI AGROMET.</StationNameEnglish>
+<Province>อุบลราชธานี</Province>
+<Latitude Unit="decimal degree">15.23914</Latitude>
+<Longitude Unit="decimal degree">105.02350</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.15</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.3</Temperature>
+<MaxTemperature Unit="celcius">32.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.5</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.4</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.7</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">5.20</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48407</WmoStationNumber>
+<StationNameThai>อุบลราชธานี (ศูนย์ฯ)</StationNameThai>
+<StationNameEnglish>UBON RATCHATHANI</StationNameEnglish>
+<Province>อุบลราชธานี</Province>
+<Latitude Unit="decimal degree">15.25000</Latitude>
+<Longitude Unit="decimal degree">104.86667</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.31</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.0</Temperature>
+<MaxTemperature Unit="celcius">32.6</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.1</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.3</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">1.3</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">96</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.50</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48409</WmoStationNumber>
+<StationNameThai>ศรีสะเกษ</StationNameThai>
+<StationNameEnglish>SI SAKET AGROMET.</StationNameEnglish>
+<Province>ศรีสะเกษ</Province>
+<Latitude Unit="decimal degree">15.00000</Latitude>
+<Longitude Unit="decimal degree">104.05000</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.67</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.0</Temperature>
+<MaxTemperature Unit="celcius">31.6</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.4</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.2</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.7</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">3.70</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48410</WmoStationNumber>
+<StationNameThai>อุทัยธานี</StationNameThai>
+<StationNameEnglish>UTHAITHANI</StationNameEnglish>
+<Province>อุทัยธานี</Province>
+<Latitude Unit="decimal degree">15.37417</Latitude>
+<Longitude Unit="decimal degree">100.03889</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.19</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.1</Temperature>
+<MaxTemperature Unit="celcius">33.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">2.2</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.4</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">94</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.10</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48415</WmoStationNumber>
+<StationNameThai>พระนครศรีอยุธยา</StationNameThai>
+<StationNameEnglish>AYUTTHAYA</StationNameEnglish>
+<Province>พระนครศรีอยุธยา</Province>
+<Latitude Unit="decimal degree">14.53472</Latitude>
+<Longitude Unit="decimal degree">100.72500</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.74</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.0</Temperature>
+<MaxTemperature Unit="celcius">32.6</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.3</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.5</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">90</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48417</WmoStationNumber>
+<StationNameThai>นครนายก</StationNameThai>
+<StationNameEnglish>NAKORNNAYOK</StationNameEnglish>
+<Province>นครนายก</Province>
+<Latitude Unit="decimal degree">14.36222</Latitude>
+<Longitude Unit="decimal degree">101.39278</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1008.27</MeanSeaLevelPressure>
+<Temperature Unit="celcius">18.6</Temperature>
+<MaxTemperature Unit="celcius">22.1</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.5</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">18.1</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.3</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48419</WmoStationNumber>
+<StationNameThai>ปทุมธานี สกษ.</StationNameThai>
+<StationNameEnglish>PATHUMTHANI</StationNameEnglish>
+<Province>ปทุมธานี</Province>
+<Latitude Unit="decimal degree">14.10000</Latitude>
+<Longitude Unit="decimal degree">100.61667</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.23</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.0</Temperature>
+<MaxTemperature Unit="celcius">33.7</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.4</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.0</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">88</RelativeHumidity>
+<WindDirection Unit="degree">190</WindDirection>
+<WindSpeed Unit="km/h">3</WindSpeed>
+<Rainfall Unit="mm">2.20</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48458</WmoStationNumber>
+<StationNameThai>ฉะเชิงเทรา</StationNameThai>
+<StationNameEnglish>CHACHOENGSAO</StationNameEnglish>
+<Province>ฉะเชิงเทรา</Province>
+<Latitude Unit="decimal degree">13.51556</Latitude>
+<Longitude Unit="decimal degree">101.45833</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1008.86</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.8</Temperature>
+<MaxTemperature Unit="celcius">33.7</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.2</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.4</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">95</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48464</WmoStationNumber>
+<StationNameThai>ราชบุรี</StationNameThai>
+<StationNameEnglish>RATCHA BURI</StationNameEnglish>
+<Province>ราชบุรี</Province>
+<Latitude Unit="decimal degree">13.48931</Latitude>
+<Longitude Unit="decimal degree">99.79239</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.56</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.5</Temperature>
+<MaxTemperature Unit="celcius">32.8</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.5</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.9</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.5</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">92</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48425</WmoStationNumber>
+<StationNameThai>สุพรรณบุรี</StationNameThai>
+<StationNameEnglish>SUPHAN BURI</StationNameEnglish>
+<Province>สุพรรณบุรี</Province>
+<Latitude Unit="decimal degree">14.47444</Latitude>
+<Longitude Unit="decimal degree">100.13889</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.40</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.2</Temperature>
+<MaxTemperature Unit="celcius">34.8</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.5</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.3</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">87</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48427</WmoStationNumber>
+<StationNameThai>อู่ทอง สกษ.</StationNameThai>
+<StationNameEnglish>U THONG AGROMET.</StationNameEnglish>
+<Province>สุพรรณบุรี</Province>
+<Latitude Unit="decimal degree">14.30361</Latitude>
+<Longitude Unit="decimal degree">99.86472</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.55</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.4</Temperature>
+<MaxTemperature Unit="celcius">32.6</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.4</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.6</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.4</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">86</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48426</WmoStationNumber>
+<StationNameThai>ลพบุรี</StationNameThai>
+<StationNameEnglish>LOP BURI</StationNameEnglish>
+<Province>ลพบุรี</Province>
+<Latitude Unit="decimal degree">14.79972</Latitude>
+<Longitude Unit="decimal degree">100.64500</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.17</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.4</Temperature>
+<MaxTemperature Unit="celcius">32.9</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.6</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">26.3</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">89</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48418</WmoStationNumber>
+<StationNameThai>บัวชุม </StationNameThai>
+<StationNameEnglish>BUA CHUM</StationNameEnglish>
+<Province>ลพบุรี</Province>
+<Latitude Unit="decimal degree">15.26667</Latitude>
+<Longitude Unit="decimal degree">101.18736</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.71</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.4</Temperature>
+<MaxTemperature Unit="celcius">32.6</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.2</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.6</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.3</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">96</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48457</WmoStationNumber>
+<StationNameThai>นำร่อง</StationNameThai>
+<StationNameEnglish>PILOT STATION</StationNameEnglish>
+<Province>สมุทรปราการ</Province>
+<Latitude Unit="decimal degree">13.39389</Latitude>
+<Longitude Unit="decimal degree">100.59944</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.28</MeanSeaLevelPressure>
+<Temperature Unit="celcius">29.0</Temperature>
+<MaxTemperature Unit="celcius">31.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.0</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">27.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.5</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">85</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48420</WmoStationNumber>
+<StationNameThai>สมุทรปราการ สกษ.</StationNameThai>
+<StationNameEnglish>Samut Prakarn</StationNameEnglish>
+<Province>สมุทรปราการ</Province>
+<Latitude Unit="decimal degree">13.51667</Latitude>
+<Longitude Unit="decimal degree">100.76167</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.24</MeanSeaLevelPressure>
+<Temperature Unit="celcius">27.8</Temperature>
+<MaxTemperature Unit="celcius">32.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.4</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">26.7</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.6</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">79</RelativeHumidity>
+<WindDirection Unit="degree">230</WindDirection>
+<WindSpeed Unit="km/h">1</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48429</WmoStationNumber>
+<StationNameThai>สนามบินสุวรรณภูมิ</StationNameThai>
+<StationNameEnglish>SUVARNABHUMI AIRPORT</StationNameEnglish>
+<Province>สมุทรปราการ</Province>
+<Latitude Unit="decimal degree">13.68639</Latitude>
+<Longitude Unit="decimal degree">100.76750</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.68</MeanSeaLevelPressure>
+<Temperature Unit="celcius">27.2</Temperature>
+<MaxTemperature Unit="celcius">33.0</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.5</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.8</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">78</RelativeHumidity>
+<WindDirection Unit="degree">230</WindDirection>
+<WindSpeed Unit="km/h">3</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48430</WmoStationNumber>
+<StationNameThai>ปราจีนบุรี</StationNameThai>
+<StationNameEnglish>PRACHIN BURI</StationNameEnglish>
+<Province>ปราจีนบุรี</Province>
+<Latitude Unit="decimal degree">14.05842</Latitude>
+<Longitude Unit="decimal degree">101.36930</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.39</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.9</Temperature>
+<MaxTemperature Unit="celcius">32.7</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.6</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.6</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">89</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.30</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48439</WmoStationNumber>
+<StationNameThai>กบินทร์บุรี</StationNameThai>
+<StationNameEnglish>KABIN BURI</StationNameEnglish>
+<Province>ปราจีนบุรี</Province>
+<Latitude Unit="decimal degree">13.98333</Latitude>
+<Longitude Unit="decimal degree">101.70722</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.20</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.7</Temperature>
+<MaxTemperature Unit="celcius">32.2</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.6</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.5</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">98</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.90</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48431</WmoStationNumber>
+<StationNameThai>นครราชสีมา</StationNameThai>
+<StationNameEnglish>NAKHON RATCHASIMA</StationNameEnglish>
+<Province>นครราชสีมา</Province>
+<Latitude Unit="decimal degree">14.96830</Latitude>
+<Longitude Unit="decimal degree">102.08603</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.39</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.0</Temperature>
+<MaxTemperature Unit="celcius">33.0</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.4</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.3</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">94</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48435</WmoStationNumber>
+<StationNameThai>ปากช่อง สกษ.</StationNameThai>
+<StationNameEnglish>PAKCHONG AGROMET.</StationNameEnglish>
+<Province>นครราชสีมา</Province>
+<Latitude Unit="decimal degree">14.64389</Latitude>
+<Longitude Unit="decimal degree">101.33194</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.97</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.0</Temperature>
+<MaxTemperature Unit="celcius">29.7</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-1.0</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">22.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.6</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">91</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48434</WmoStationNumber>
+<StationNameThai>โชคชัย</StationNameThai>
+<StationNameEnglish>CHOK CHAI</StationNameEnglish>
+<Province>นครราชสีมา</Province>
+<Latitude Unit="decimal degree">14.71889</Latitude>
+<Longitude Unit="decimal degree">102.16861</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.38</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.5</Temperature>
+<MaxTemperature Unit="celcius">33.0</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.5</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.3</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">91</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48432</WmoStationNumber>
+<StationNameThai>สุรินทร์</StationNameThai>
+<StationNameEnglish>SURIN</StationNameEnglish>
+<Province>สุรินทร์</Province>
+<Latitude Unit="decimal degree">14.88333</Latitude>
+<Longitude Unit="decimal degree">103.50000</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.47</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.1</Temperature>
+<MaxTemperature Unit="celcius">32.9</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.9</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.4</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">95</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.10</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48433</WmoStationNumber>
+<StationNameThai>สุรินทร์ สกษ.</StationNameThai>
+<StationNameEnglish>SURIN AGROMET.</StationNameEnglish>
+<Province>สุรินทร์</Province>
+<Latitude Unit="decimal degree">14.88333</Latitude>
+<Longitude Unit="decimal degree">103.45000</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.86</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.5</Temperature>
+<MaxTemperature Unit="celcius">32.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.5</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">93</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.40</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48416</WmoStationNumber>
+<StationNameThai>ท่าตูม</StationNameThai>
+<StationNameEnglish>THA TUM</StationNameEnglish>
+<Province>สุรินทร์</Province>
+<Latitude Unit="decimal degree">15.31667</Latitude>
+<Longitude Unit="decimal degree">103.68333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1004.80</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.9</Temperature>
+<MaxTemperature Unit="celcius">33.0</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.8</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.8</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">1.0</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">84</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48437</WmoStationNumber>
+<StationNameThai>บุรีรัมย์</StationNameThai>
+<StationNameEnglish>BURIRUM</StationNameEnglish>
+<Province>บุรีรัมย์</Province>
+<Latitude Unit="decimal degree">15.22575</Latitude>
+<Longitude Unit="decimal degree">103.24808</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.48</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.8</Temperature>
+<MaxTemperature Unit="celcius">32.2</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.9</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.3</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.5</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">94</RelativeHumidity>
+<WindDirection Unit="degree">210</WindDirection>
+<WindSpeed Unit="km/h">2</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48436</WmoStationNumber>
+<StationNameThai>นางรอง</StationNameThai>
+<StationNameEnglish>NANG RONG</StationNameEnglish>
+<Province>บุรีรัมย์</Province>
+<Latitude Unit="decimal degree">14.58333</Latitude>
+<Longitude Unit="decimal degree">102.80000</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.50</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.6</Temperature>
+<MaxTemperature Unit="celcius">33.2</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.3</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.4</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.4</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">89</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48438</WmoStationNumber>
+<StationNameThai>สมุทรสงคราม</StationNameThai>
+<StationNameEnglish>SAMUTSONGKRAM</StationNameEnglish>
+<Province>สมุทรสงคราม</Province>
+<Latitude Unit="decimal degree">13.40778</Latitude>
+<Longitude Unit="decimal degree">100.03222</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.65</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.8</Temperature>
+<MaxTemperature Unit="celcius">33.3</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">2.8</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.6</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.9</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">85</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48462</WmoStationNumber>
+<StationNameThai>อรัญประเทศ</StationNameThai>
+<StationNameEnglish>ARANYA PRATHET</StationNameEnglish>
+<Province>สระแก้ว</Province>
+<Latitude Unit="decimal degree">13.70000</Latitude>
+<Longitude Unit="decimal degree">102.58333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.49</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.6</Temperature>
+<MaxTemperature Unit="celcius">33.0</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.2</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.2</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">91</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">7.40</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48440</WmoStationNumber>
+<StationNameThai>สระแก้ว</StationNameThai>
+<StationNameEnglish>SA KAEW</StationNameEnglish>
+<Province>สระแก้ว</Province>
+<Latitude Unit="decimal degree">13.78889</Latitude>
+<Longitude Unit="decimal degree">102.03472</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1005.92</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.9</Temperature>
+<MaxTemperature Unit="celcius">32.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.6</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.4</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.5</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">98</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">4.70</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48450</WmoStationNumber>
+<StationNameThai>กาญจนบุรี</StationNameThai>
+<StationNameEnglish>KANCHANA BURI</StationNameEnglish>
+<Province>กาญจนบุรี</Province>
+<Latitude Unit="decimal degree">14.02250</Latitude>
+<Longitude Unit="decimal degree">99.53583</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.68</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.5</Temperature>
+<MaxTemperature Unit="celcius">33.0</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.5</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.3</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">84</RelativeHumidity>
+<WindDirection Unit="degree">220</WindDirection>
+<WindSpeed Unit="km/h">2</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48421</WmoStationNumber>
+<StationNameThai>ทองผาภูมิ</StationNameThai>
+<StationNameEnglish>THONG PHAPHUM</StationNameEnglish>
+<Province>กาญจนบุรี</Province>
+<Latitude Unit="decimal degree">14.74222</Latitude>
+<Longitude Unit="decimal degree">98.63639</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.20</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.3</Temperature>
+<MaxTemperature Unit="celcius">30.8</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">96</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.50</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48451</WmoStationNumber>
+<StationNameThai>นครปฐม</StationNameThai>
+<StationNameEnglish>NAKHONPATHOM</StationNameEnglish>
+<Province>นครปฐม</Province>
+<Latitude Unit="decimal degree">14.01167</Latitude>
+<Longitude Unit="decimal degree">99.97000</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.95</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.2</Temperature>
+<MaxTemperature Unit="celcius">33.1</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.6</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-1.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">98</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48455</WmoStationNumber>
+<StationNameThai>กรุงเทพมหานคร</StationNameThai>
+<StationNameEnglish>BANGKOK METROPOLIS</StationNameEnglish>
+<Province>กรุงเทพมหานคร</Province>
+<Latitude Unit="decimal degree">13.72639</Latitude>
+<Longitude Unit="decimal degree">100.56000</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.30</MeanSeaLevelPressure>
+<Temperature Unit="celcius">27.6</Temperature>
+<MaxTemperature Unit="celcius">33.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.9</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">26.3</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">87</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48454</WmoStationNumber>
+<StationNameThai>กรุงเทพฯ ท่าเรือคลองเตย</StationNameThai>
+<StationNameEnglish>BANGKOK PORT (KLONG TOEI)</StationNameEnglish>
+<Province>กรุงเทพมหานคร</Province>
+<Latitude Unit="decimal degree">13.70694</Latitude>
+<Longitude Unit="decimal degree">100.56805</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.56</MeanSeaLevelPressure>
+<Temperature Unit="celcius">27.3</Temperature>
+<MaxTemperature Unit="celcius">33.6</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.4</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">26.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.4</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">75</RelativeHumidity>
+<WindDirection Unit="degree">310</WindDirection>
+<WindSpeed Unit="km/h">2</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48453</WmoStationNumber>
+<StationNameThai>กรุงเทพฯ บางนา สกษ.</StationNameThai>
+<StationNameEnglish>BANG NA AGROMET.</StationNameEnglish>
+<Province>กรุงเทพมหานคร</Province>
+<Latitude Unit="decimal degree">13.66639</Latitude>
+<Longitude Unit="decimal degree">100.60611</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.40</MeanSeaLevelPressure>
+<Temperature Unit="celcius">27.0</Temperature>
+<MaxTemperature Unit="celcius">33.6</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.3</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">26.3</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">77</RelativeHumidity>
+<WindDirection Unit="degree">320</WindDirection>
+<WindSpeed Unit="km/h">2</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48456</WmoStationNumber>
+<StationNameThai>สนามบินดอนเมือง</StationNameThai>
+<StationNameEnglish>DON MUANG AIRPORT</StationNameEnglish>
+<Province>กรุงเทพมหานคร</Province>
+<Latitude Unit="decimal degree">13.91917</Latitude>
+<Longitude Unit="decimal degree">100.60500</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.56</MeanSeaLevelPressure>
+<Temperature Unit="celcius">27.2</Temperature>
+<MaxTemperature Unit="celcius">33.1</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.6</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">26.4</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.8</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">77</RelativeHumidity>
+<WindDirection Unit="degree">250</WindDirection>
+<WindSpeed Unit="km/h">5</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48459</WmoStationNumber>
+<StationNameThai>ชลบุรี</StationNameThai>
+<StationNameEnglish>CHON BURI</StationNameEnglish>
+<Province>ชลบุรี</Province>
+<Latitude Unit="decimal degree">13.36667</Latitude>
+<Longitude Unit="decimal degree">100.98333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.48</MeanSeaLevelPressure>
+<Temperature Unit="celcius">29.0</Temperature>
+<MaxTemperature Unit="celcius">33.7</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">28.3</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">1.3</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">80</RelativeHumidity>
+<WindDirection Unit="degree">270</WindDirection>
+<WindSpeed Unit="km/h">5</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48460</WmoStationNumber>
+<StationNameThai>เกาะสีชัง</StationNameThai>
+<StationNameEnglish>KO SICHANG</StationNameEnglish>
+<Province>ชลบุรี</Province>
+<Latitude Unit="decimal degree">13.16167</Latitude>
+<Longitude Unit="decimal degree">100.80194</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.46</MeanSeaLevelPressure>
+<Temperature Unit="celcius">28.4</Temperature>
+<MaxTemperature Unit="celcius">32.6</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.2</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">27.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">82</RelativeHumidity>
+<WindDirection Unit="degree">200</WindDirection>
+<WindSpeed Unit="km/h">3</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48461</WmoStationNumber>
+<StationNameThai>พัทยา</StationNameThai>
+<StationNameEnglish>PHATTHAYA</StationNameEnglish>
+<Province>ชลบุรี</Province>
+<Latitude Unit="decimal degree">12.92000</Latitude>
+<Longitude Unit="decimal degree">100.86944</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.30</MeanSeaLevelPressure>
+<Temperature Unit="celcius">27.9</Temperature>
+<MaxTemperature Unit="celcius">31.7</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.2</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">27.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.5</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">74</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48477</WmoStationNumber>
+<StationNameThai>สัตหีบ</StationNameThai>
+<StationNameEnglish>SATTAHIP</StationNameEnglish>
+<Province>ชลบุรี</Province>
+<Latitude Unit="decimal degree">12.68333</Latitude>
+<Longitude Unit="decimal degree">100.98333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.36</MeanSeaLevelPressure>
+<Temperature Unit="celcius">27.0</Temperature>
+<MaxTemperature Unit="celcius">33.6</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-1.4</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">88</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48463</WmoStationNumber>
+<StationNameThai>แหลมฉบัง</StationNameThai>
+<StationNameEnglish>LAEM CHABANG</StationNameEnglish>
+<Province>ชลบุรี</Province>
+<Latitude Unit="decimal degree">13.07694</Latitude>
+<Longitude Unit="decimal degree">100.87583</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.52</MeanSeaLevelPressure>
+<Temperature Unit="celcius">27.2</Temperature>
+<MaxTemperature Unit="celcius">33.8</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">3.9</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">26.9</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">82</RelativeHumidity>
+<WindDirection Unit="degree">320</WindDirection>
+<WindSpeed Unit="km/h">7</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48465</WmoStationNumber>
+<StationNameThai>เพชรบุรี</StationNameThai>
+<StationNameEnglish>PHETCHA BURI</StationNameEnglish>
+<Province>เพชรบุรี</Province>
+<Latitude Unit="decimal degree">12.99944</Latitude>
+<Longitude Unit="decimal degree">100.06056</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.28</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.2</Temperature>
+<MaxTemperature Unit="celcius">33.6</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.9</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-1.0</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">82</RelativeHumidity>
+<WindDirection Unit="degree">210</WindDirection>
+<WindSpeed Unit="km/h">7</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48478</WmoStationNumber>
+<StationNameThai>ระยอง</StationNameThai>
+<StationNameEnglish>RAYONG</StationNameEnglish>
+<Province>ระยอง</Province>
+<Latitude Unit="decimal degree">12.63222</Latitude>
+<Longitude Unit="decimal degree">101.34361</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.90</MeanSeaLevelPressure>
+<Temperature Unit="celcius">27.5</Temperature>
+<MaxTemperature Unit="celcius">31.6</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.4</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">27.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.6</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">82</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48479</WmoStationNumber>
+<StationNameThai>ห้วยโป่ง สกษ.</StationNameThai>
+<StationNameEnglish>HUAI PONG AGROMET.</StationNameEnglish>
+<Province>ระยอง</Province>
+<Latitude Unit="decimal degree">12.73333</Latitude>
+<Longitude Unit="decimal degree">101.13333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.41</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.1</Temperature>
+<MaxTemperature Unit="celcius">33.0</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">2.2</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.3</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">87</RelativeHumidity>
+<WindDirection Unit="degree">280</WindDirection>
+<WindSpeed Unit="km/h">2</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48480</WmoStationNumber>
+<StationNameThai>จันทบุรี</StationNameThai>
+<StationNameEnglish>CHANTHA BURI</StationNameEnglish>
+<Province>จันทบุรี</Province>
+<Latitude Unit="decimal degree">12.61667</Latitude>
+<Longitude Unit="decimal degree">102.11333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.75</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.7</Temperature>
+<MaxTemperature Unit="celcius">32.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">3.2</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.3</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">94</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">3.10</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48481</WmoStationNumber>
+<StationNameThai>พลิ้ว สกษ.</StationNameThai>
+<StationNameEnglish>PHLIU AGROMET.</StationNameEnglish>
+<Province>จันทบุรี</Province>
+<Latitude Unit="decimal degree">12.50861</Latitude>
+<Longitude Unit="decimal degree">102.17305</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.60</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.0</Temperature>
+<MaxTemperature Unit="celcius">31.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">3.0</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.8</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">92</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.20</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48500</WmoStationNumber>
+<StationNameThai>ประจวบคีรีขันธ์</StationNameThai>
+<StationNameEnglish>PRACHUAP KHIRIKHAN</StationNameEnglish>
+<Province>ประจวบคีรีขันธ์</Province>
+<Latitude Unit="decimal degree">11.83333</Latitude>
+<Longitude Unit="decimal degree">99.83333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.19</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.7</Temperature>
+<MaxTemperature Unit="celcius">32.8</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">2.2</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">83</RelativeHumidity>
+<WindDirection Unit="degree">250</WindDirection>
+<WindSpeed Unit="km/h">4</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48475</WmoStationNumber>
+<StationNameThai>หัวหิน</StationNameThai>
+<StationNameEnglish>HUA HIN</StationNameEnglish>
+<Province>ประจวบคีรีขันธ์</Province>
+<Latitude Unit="decimal degree">12.58611</Latitude>
+<Longitude Unit="decimal degree">99.96250</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1006.70</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.7</Temperature>
+<MaxTemperature Unit="celcius">33.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.5</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.0</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">83</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.01</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48474</WmoStationNumber>
+<StationNameThai>หนองพลับ สกษ.</StationNameThai>
+<StationNameEnglish>NONG PHLUB AGROMET.</StationNameEnglish>
+<Province>ประจวบคีรีขันธ์</Province>
+<Latitude Unit="decimal degree">12.58333</Latitude>
+<Longitude Unit="decimal degree">99.73333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.27</MeanSeaLevelPressure>
+<Temperature Unit="celcius">23.5</Temperature>
+<MaxTemperature Unit="celcius">32.2</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.8</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-1.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">96</RelativeHumidity>
+<WindDirection Unit="degree">270</WindDirection>
+<WindSpeed Unit="km/h">3</WindSpeed>
+<Rainfall Unit="mm">0.50</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48501</WmoStationNumber>
+<StationNameThai>ตราด</StationNameThai>
+<StationNameEnglish>TRAD</StationNameEnglish>
+<Province>ตราด</Province>
+<Latitude Unit="decimal degree">11.76667</Latitude>
+<Longitude Unit="decimal degree">102.88333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.13</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.2</Temperature>
+<MaxTemperature Unit="celcius">32.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">3.8</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">1.3</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">94</RelativeHumidity>
+<WindDirection Unit="degree">100</WindDirection>
+<WindSpeed Unit="km/h">2</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48517</WmoStationNumber>
+<StationNameThai>ชุมพร</StationNameThai>
+<StationNameEnglish>CHUMPHON</StationNameEnglish>
+<Province>ชุมพร</Province>
+<Latitude Unit="decimal degree">10.49875</Latitude>
+<Longitude Unit="decimal degree">99.18847</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.35</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.9</Temperature>
+<MaxTemperature Unit="celcius">33.7</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.6</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.8</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.4</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48520</WmoStationNumber>
+<StationNameThai>สวี สกษ.</StationNameThai>
+<StationNameEnglish>SAWI AGROMET.</StationNameEnglish>
+<Province>ชุมพร</Province>
+<Latitude Unit="decimal degree">10.33333</Latitude>
+<Longitude Unit="decimal degree">99.10000</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1008.57</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.2</Temperature>
+<MaxTemperature Unit="celcius">32.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.0</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">96</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">2.40</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48532</WmoStationNumber>
+<StationNameThai>ระนอง</StationNameThai>
+<StationNameEnglish>RANONG</StationNameEnglish>
+<Province>ระนอง</Province>
+<Latitude Unit="decimal degree">9.98333</Latitude>
+<Longitude Unit="decimal degree">98.61667</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1009.33</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.3</Temperature>
+<MaxTemperature Unit="celcius">31.6</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">2.1</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.2</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.7</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">90</RelativeHumidity>
+<WindDirection Unit="degree">260</WindDirection>
+<WindSpeed Unit="km/h">4</WindSpeed>
+<Rainfall Unit="mm">4.20</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48551</WmoStationNumber>
+<StationNameThai>สุราษฎร์ธานี</StationNameThai>
+<StationNameEnglish>SURAT THANI</StationNameEnglish>
+<Province>สุราษฎร์ธานี</Province>
+<Latitude Unit="decimal degree">9.13556</Latitude>
+<Longitude Unit="decimal degree">99.15194</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.92</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.0</Temperature>
+<MaxTemperature Unit="celcius">35.0</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">2.9</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.9</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">96</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48550</WmoStationNumber>
+<StationNameThai>เกาะสมุย</StationNameThai>
+<StationNameEnglish>KO SAMUI</StationNameEnglish>
+<Province>สุราษฎร์ธานี</Province>
+<Latitude Unit="decimal degree">9.46667</Latitude>
+<Longitude Unit="decimal degree">100.05000</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.80</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.1</Temperature>
+<MaxTemperature Unit="celcius">33.8</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.9</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.3</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.4</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">91</RelativeHumidity>
+<WindDirection Unit="degree">250</WindDirection>
+<WindSpeed Unit="km/h">4</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48555</WmoStationNumber>
+<StationNameThai>สุราษฎร์ธานี สกษ.</StationNameThai>
+<StationNameEnglish>SURAT THANI AGROMET.</StationNameEnglish>
+<Province>สุราษฎร์ธานี</Province>
+<Latitude Unit="decimal degree">9.10000</Latitude>
+<Longitude Unit="decimal degree">99.63333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1009.49</MeanSeaLevelPressure>
+<Temperature Unit="celcius">23.7</Temperature>
+<MaxTemperature Unit="celcius">33.9</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.4</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.3</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.4</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">98</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">70.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48556</WmoStationNumber>
+<StationNameThai>พระแสง สอท.</StationNameThai>
+<StationNameEnglish>PHRA SANG</StationNameEnglish>
+<Province>สุราษฎร์ธานี</Province>
+<Latitude Unit="decimal degree">8.57022</Latitude>
+<Longitude Unit="decimal degree">99.25825</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1008.05</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.6</Temperature>
+<MaxTemperature Unit="celcius">33.1</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.8</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.6</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">98</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">6.40</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48552</WmoStationNumber>
+<StationNameThai>นครศรีธรรมราช</StationNameThai>
+<StationNameEnglish>NAKHONSI THAMMARAT</StationNameEnglish>
+<Province>นครศรีธรรมราช</Province>
+<Latitude Unit="decimal degree">8.53778</Latitude>
+<Longitude Unit="decimal degree">99.96389</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.25</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.1</Temperature>
+<MaxTemperature Unit="celcius">34.7</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.8</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">98</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">4.70</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48554</WmoStationNumber>
+<StationNameThai>นครศรีธรรมราช สกษ.</StationNameThai>
+<StationNameEnglish>NAKHONSI THAMMARAT AGROMET.</StationNameEnglish>
+<Province>นครศรีธรรมราช</Province>
+<Latitude Unit="decimal degree">8.35931</Latitude>
+<Longitude Unit="decimal degree">100.00000</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1008.06</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.1</Temperature>
+<MaxTemperature Unit="celcius">34.0</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.3</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.4</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.60</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48557</WmoStationNumber>
+<StationNameThai>ฉวาง</StationNameThai>
+<StationNameEnglish>CHAWANG</StationNameEnglish>
+<Province>นครศรีธรรมราช</Province>
+<Latitude Unit="decimal degree">8.43194</Latitude>
+<Longitude Unit="decimal degree">99.51194</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1008.03</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.7</Temperature>
+<MaxTemperature Unit="celcius">33.6</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.1</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.2</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.9</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">1.70</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48560</WmoStationNumber>
+<StationNameThai>พัทลุง สกษ.</StationNameThai>
+<StationNameEnglish>PHATTHALUNG AGROMET.</StationNameEnglish>
+<Province>พัทลุง</Province>
+<Latitude Unit="decimal degree">7.58333</Latitude>
+<Longitude Unit="decimal degree">100.16667</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.46</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.2</Temperature>
+<MaxTemperature Unit="celcius">33.8</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.2</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.1</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.7</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">98</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48561</WmoStationNumber>
+<StationNameThai>ตะกั่วป่า</StationNameThai>
+<StationNameEnglish>TAKUA PA</StationNameEnglish>
+<Province>พังงา</Province>
+<Latitude Unit="decimal degree">8.68417</Latitude>
+<Longitude Unit="decimal degree">98.25222</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.33</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.3</Temperature>
+<MaxTemperature Unit="celcius">32.6</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">2.2</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.80</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48564</WmoStationNumber>
+<StationNameThai>ภูเก็ต</StationNameThai>
+<StationNameEnglish>PHUKET</StationNameEnglish>
+<Province>ภูเก็ต</Province>
+<Latitude Unit="decimal degree">7.88333</Latitude>
+<Longitude Unit="decimal degree">98.40000</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.72</MeanSeaLevelPressure>
+<Temperature Unit="celcius">27.0</Temperature>
+<MaxTemperature Unit="celcius">34.3</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">1.0</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">26.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">1.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">90</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.20</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48565</WmoStationNumber>
+<StationNameThai>ภูเก็ต (ศูนย์ฯ)</StationNameThai>
+<StationNameEnglish>PHUKET AIRPORT</StationNameEnglish>
+<Province>ภูเก็ต</Province>
+<Latitude Unit="decimal degree">8.14500</Latitude>
+<Longitude Unit="decimal degree">98.31444</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.32</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.6</Temperature>
+<MaxTemperature Unit="celcius">31.9</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.1</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.0</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">1.6</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">92</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.01</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48566</WmoStationNumber>
+<StationNameThai>เกาะลันตา</StationNameThai>
+<StationNameEnglish>KO LANTA</StationNameEnglish>
+<Province>กระบี่</Province>
+<Latitude Unit="decimal degree">7.53333</Latitude>
+<Longitude Unit="decimal degree">99.05000</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.68</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.3</Temperature>
+<MaxTemperature Unit="celcius">31.2</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.3</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.3</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.7</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">89</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48563</WmoStationNumber>
+<StationNameThai>กระบี่</StationNameThai>
+<StationNameEnglish>KRABI</StationNameEnglish>
+<Province>กระบี่</Province>
+<Latitude Unit="decimal degree">8.10361</Latitude>
+<Longitude Unit="decimal degree">98.97528</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.93</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.4</Temperature>
+<MaxTemperature Unit="celcius">32.8</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.2</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">2.2</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">94</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48567</WmoStationNumber>
+<StationNameThai>ตรัง</StationNameThai>
+<StationNameEnglish>TRANG AIRPORT</StationNameEnglish>
+<Province>ตรัง</Province>
+<Latitude Unit="decimal degree">7.51667</Latitude>
+<Longitude Unit="decimal degree">99.61667</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.64</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.3</Temperature>
+<MaxTemperature Unit="celcius">33.0</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.3</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.1</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">1.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">95</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48571</WmoStationNumber>
+<StationNameThai>คอหงษ์ สกษ.</StationNameThai>
+<StationNameEnglish>KHO HONG AGROMET.</StationNameEnglish>
+<Province>สงขลา</Province>
+<Latitude Unit="decimal degree">7.00000</Latitude>
+<Longitude Unit="decimal degree">100.50000</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.54</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.5</Temperature>
+<MaxTemperature Unit="celcius">33.2</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-1.3</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">1.0</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">96</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48574</WmoStationNumber>
+<StationNameThai>สะเดา</StationNameThai>
+<StationNameEnglish>SA DAO</StationNameEnglish>
+<Province>สงขลา</Province>
+<Latitude Unit="decimal degree">6.79806</Latitude>
+<Longitude Unit="decimal degree">100.39056</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1008.01</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.6</Temperature>
+<MaxTemperature Unit="celcius">33.9</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.3</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">22.6</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.6</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">98</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.20</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48568</WmoStationNumber>
+<StationNameThai>สงขลา</StationNameThai>
+<StationNameEnglish>SONGKHLA</StationNameEnglish>
+<Province>สงขลา</Province>
+<Latitude Unit="decimal degree">7.18211</Latitude>
+<Longitude Unit="decimal degree">100.60769</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.85</MeanSeaLevelPressure>
+<Temperature Unit="celcius">26.6</Temperature>
+<MaxTemperature Unit="celcius">33.3</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-1.4</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">25.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.4</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">89</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">1.80</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48569</WmoStationNumber>
+<StationNameThai>หาดใหญ่</StationNameThai>
+<StationNameEnglish>HAT YAI AIRPORT</StationNameEnglish>
+<Province>สงขลา</Province>
+<Latitude Unit="decimal degree">6.91667</Latitude>
+<Longitude Unit="decimal degree">100.43333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1008.27</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.6</Temperature>
+<MaxTemperature Unit="celcius">34.9</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.3</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">1.1</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">100</RelativeHumidity>
+<WindDirection Unit="degree">990</WindDirection>
+<WindSpeed Unit="km/h">2</WindSpeed>
+<Rainfall Unit="mm">13.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48570</WmoStationNumber>
+<StationNameThai>สตูล</StationNameThai>
+<StationNameEnglish>SATUN</StationNameEnglish>
+<Province>สตูล</Province>
+<Latitude Unit="decimal degree">6.65000</Latitude>
+<Longitude Unit="decimal degree">100.08333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1008.74</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.5</Temperature>
+<MaxTemperature Unit="celcius">33.0</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">0.5</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.8</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">94</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48580</WmoStationNumber>
+<StationNameThai>ปัตตานี</StationNameThai>
+<StationNameEnglish>PATTANI AIRPORT</StationNameEnglish>
+<Province>ปัตตานี</Province>
+<Latitude Unit="decimal degree">6.78333</Latitude>
+<Longitude Unit="decimal degree">101.15000</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1007.50</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.0</Temperature>
+<MaxTemperature Unit="celcius">33.7</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-1.3</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">24.5</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">0.0</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">96</RelativeHumidity>
+<WindDirection Unit="degree">000</WindDirection>
+<WindSpeed Unit="km/h">0</WindSpeed>
+<Rainfall Unit="mm">0.40</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48581</WmoStationNumber>
+<StationNameThai>ยะลา สกษ.</StationNameThai>
+<StationNameEnglish>YALA AGROMET.</StationNameEnglish>
+<Province>ยะลา</Province>
+<Latitude Unit="decimal degree">6.51667</Latitude>
+<Longitude Unit="decimal degree">101.28333</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1008.66</MeanSeaLevelPressure>
+<Temperature Unit="celcius">24.4</Temperature>
+<MaxTemperature Unit="celcius">34.0</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.8</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius">23.8</MinTemperature>
+<DifferentFromMinTemperature Unit="celcius">-0.4</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">97</RelativeHumidity>
+<WindDirection Unit="degree">160</WindDirection>
+<WindSpeed Unit="km/h">2</WindSpeed>
+<Rainfall Unit="mm">13.50</Rainfall>
+</Observation>
+</Station>
+<Station>
+<WmoStationNumber>48583</WmoStationNumber>
+<StationNameThai>นราธิวาส</StationNameThai>
+<StationNameEnglish>NARATHIWAT</StationNameEnglish>
+<Province>นราธิวาส</Province>
+<Latitude Unit="decimal degree">6.41667</Latitude>
+<Longitude Unit="decimal degree">101.81667</Longitude>
+<Observation type="ObservationToday">
+<DateTime>2020-10-01 07:00</DateTime>
+<MeanSeaLevelPressure unit="mb">1008.30</MeanSeaLevelPressure>
+<Temperature Unit="celcius">25.5</Temperature>
+<MaxTemperature Unit="celcius">32.5</MaxTemperature>
+<DifferentFromMaxTemperature Unit="celcius">-0.7</DifferentFromMaxTemperature>
+<MinTemperature Unit="celcius"/>
+<DifferentFromMinTemperature Unit="celcius">0.0</DifferentFromMinTemperature>
+<RelativeHumidity Unit="%">88</RelativeHumidity>
+<WindDirection Unit="degree">250</WindDirection>
+<WindSpeed Unit="km/h">4</WindSpeed>
+<Rainfall Unit="mm">0.00</Rainfall>
+</Observation>
+</Station>
+</Stations>
+</WeatherToday>
